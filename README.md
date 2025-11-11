@@ -1,4 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Trushali  
+
+🎯 **Aspiring Data Analyst | Power BI | SQL | Excel | Python**
+
+I’m passionate about finding insights through data and presenting them visually for better decision-making.  
+
+---
+
+## 🧠 Skills  
+- **Data Analysis:** Excel | SQL | Python (Pandas, NumPy)  
+- **Visualization:** Power BI | Matplotlib | Seaborn  
+- **Databases:** MySQL | PostgreSQL  
+- **Tools:** Jupyter Notebook | GitHub  
+
+---
+
+## 📈 GitHub Stats  
+![Trushali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trushali&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trushali&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Currently Learning  
+📊 Data Visualization | 🧩 Data Cleaning | 🧠 Storytelling with Data  
+
+---
+
+## 🌐 Connect with Me  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio Website](https://yourwebsite.com)
+
 
 <!--
 **trushali-babariya/Trushali-Babariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
