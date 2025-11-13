@@ -29,7 +29,7 @@ This repository contains all my professional course completions and achievements
 | Course Name | Platform | View Certificate |
 |--------------|-----------|------------------|
 | Data Visualization | freeCodeCamp | [View PDF](certificate.pdf) |
-| Data Visualization with Python TechVidvan | IBM | [View PDF](IBM.pdf) |
+| Data Visualization with Python | IBM | [View PDF](IBM.pdf) |
 
 
 
