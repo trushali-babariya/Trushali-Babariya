@@ -1,9 +1,19 @@
 # 👋 Hi, I'm Trushali  
 
-🎯 **Aspiring Data Analyst | Power BI | SQL | Excel | Python**
+🎯  Aspiring Data Analyst | BCA Student | Excel • SQL • Power BI | Learning Google Data Analytics | Data Visualization Enthusiast
 
 I’m passionate about finding insights through data and presenting them visually for better decision-making.  
 
+---
+## 🔹 About Me
+Enthusiastic **Data Analyst** with a strong foundation in data cleaning, data visualization, dashboards, and analytical storytelling.  
+I enjoy uncovering insights, simplifying complex datasets, and building dashboards that drive decision-making.
+
+- 🎯 Currently learning **Advanced Power BI & Statistics**
+- 📊 Interested in **Business Dashboards, Data Visualization, ML Basics**
+- 🧠 Always exploring new tools & trends in Data Analytics
+- 📫 Reach me at: **trushalibabariya1@gmail.com**
+  
 ---
 
 ## 🧠 Skills  
@@ -19,17 +29,37 @@ I’m passionate about finding insights through data and presenting them visuall
 
 ---
 
+## 🔹 Projects
+👜 Royal Handbags — PHP E-Commerce Website
+
+A modern, clean & fully functional PHP-based E-Commerce website built for showcasing and selling stylish handbags.
+This project demonstrates strong fundamentals of PHP, MySQL, Frontend UI, CRUD operations, Sessions, Admin Panel, and User Management.
+🌐 Live Demo
+👉 https://royalhandbag.rf.gd/
+
+  ---
+  🏅 Certificates
+🎓 Data visualization with Python – IBM Cognitive Class
+🧠 Data visualization V8 – freeCodeCamp
+🔗 View all my certificates:certificates
+
+---
+  
+## 🔹 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" width="55%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" width="40%">
+</p>
+
+---
+
 ## 🌐 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/trushali-babariya-2b0654369/) | [Portfolio Website](https://yourwebsite.com)
+💼 LinkedIn: Trushali Babariya
+🐙 GitHub: @trushali-babariya
 
-# 📜 My Certificates
 
-This repository contains all my professional course completions and achievements.
 
-| Course Name | Platform | View Certificate |
-|--------------|-----------|------------------|
-| Data Visualization | freeCodeCamp | [View PDF](certificate.pdf) |
-| Data Visualization with Python | IBM | [View PDF](IBM.pdf) |
 
 
 
