@@ -29,13 +29,20 @@ I enjoy uncovering insights, simplifying complex datasets, and building dashboar
 
 ---
 
-## 🔹 Projects
-👜 Royal Handbags — PHP E-Commerce Website
+### 👜 Royal Handbags — PHP E-Commerce Website  
 
-A modern, clean & fully functional PHP-based E-Commerce website built for showcasing and selling stylish handbags.
-This project demonstrates strong fundamentals of PHP, MySQL, Frontend UI, CRUD operations, Sessions, Admin Panel, and User Management.
-🌐 Live Demo
-👉 https://royalhandbag.rf.gd/
+A modern and fully functional **E-Commerce web application** built using **PHP, MySQL, HTML, CSS, and JavaScript**.  
+This project highlights core web development skills such as:
+
+- User authentication (Login/Signup)  
+- Product listing & filtering  
+- Shopping cart system  
+- Order management  
+- Admin dashboard for product CRUD operations  
+- Responsive & clean UI  
+
+🌐 **Live Demo:** https://royalhandbag.rf.gd/  
+📂 **Source Code:** *(https://github.com/trushali-babariya/royal-handbags-ecommerce)*  
 
   ---
   
