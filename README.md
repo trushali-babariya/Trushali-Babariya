@@ -28,8 +28,9 @@ I enjoy uncovering insights, simplifying complex datasets, and building dashboar
 📊 Data Visualization | 🧩 Data Cleaning | 🧠 Storytelling with Data  
 
 ---
+### My Project 
 
-### 👜 Royal Handbags — PHP E-Commerce Website  
+## 👜 Royal Handbags — PHP E-Commerce Website  
 
 A modern and fully functional **E-Commerce web application** built using **PHP, MySQL, HTML, CSS, and JavaScript**.  
 This project highlights core web development skills such as:
@@ -69,7 +70,7 @@ This project highlights core web development skills such as:
 - 💼 **LinkedIn:** Trushali Babariya  
 - 🐙 **GitHub:** @trushali-babariya  
 
-
+<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
 
 
 
